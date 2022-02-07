@@ -5,6 +5,6 @@ annotations:
   ec2f0d7918c24c6f9f5766d5add3c66f:
     span:
       start: 2104
-      end: 2777
+      end: 2710
 local_ids:
   ec2f0d7918c24c6f9f5766d5add3c66f: 200000
